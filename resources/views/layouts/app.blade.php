@@ -39,6 +39,7 @@
         integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 
     @livewireScripts
+   
 </body>
 
 </html>
